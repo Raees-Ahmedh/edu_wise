@@ -1,16 +1,17 @@
 # edu_wise
 
-A new Flutter project.
+QR Code Based Attendence System.
 
-## Getting Started
+## OverView
 
-This project is a starting point for a Flutter application.
+EduWise is a mobile application designed to streamline and automate the attendance management
+process in educational institutions using QR code technology. It eliminates the inefficiencies of manual
+attendance tracking by allowing students to register their attendance by scanning a QR code generated
+by their instructor.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Objective
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• To automate the attendance recording process and reduce manual effort.
+• To provide real-time attendance data to instructors for better monitoring.
+• To enhance student engagement and administrative efficiency.
+• To demonstrate the practical application of QR code technology in educational settings.
